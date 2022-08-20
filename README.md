@@ -1,6 +1,4 @@
-# l_and_u
 
-A new Flutter project.
 # Screenshots
 ![1](https://user-images.githubusercontent.com/108566946/185765803-4f2fae5b-a90e-49f4-8505-1764679c339c.png)
 ![2](https://user-images.githubusercontent.com/108566946/185765805-ad7bc5b1-e8ec-4337-8090-59701a478377.png)
